@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/1/folders/1o2IROxdCy-AzuHAT8idPiM8OYBQWxH4x
+  /:
+    url: https://author-p83252-e713509.adobeaemcloud.com/
+    type: markup
