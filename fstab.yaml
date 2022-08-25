@@ -2,3 +2,5 @@ mountpoints:
   /:
     url: https://author-p83252-e713509.adobeaemcloud.com/
     type: markup
+    suffix: '.semantic.html'
+
